@@ -1,5 +1,10 @@
 # Changelog
 
+# Version TBD
+
+### Changed
+* Updated `create_batch` method to accept consensus settings.
+
 # Version 3.28.0 (2022-10-14)
 
 ### Added
